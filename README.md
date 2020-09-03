@@ -50,7 +50,7 @@
       Defines section/division of web page
       Useful for CSS, grouping elements together 
     
- '''html
+ '''HTML
   <div>
   <h1>Quentin's Page of Interests</h1>
   <p>The world wants to know: who is Quentin Ruiz-Esparza? Read this page to learn about Quentin's likes (and maybe his dislikes)!</p>
