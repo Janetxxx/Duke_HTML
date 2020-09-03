@@ -1,10 +1,10 @@
 # Duke_HTML
 
-lesson 1
+## lesson 1
   Build a Web Page with HTML
   https://codepen.io
 
-lesson 2
+## lesson 2
   HTML5
 
   HTML is not a programming language, markup language.
@@ -22,15 +22,15 @@ lesson 2
   
   In <body>,tag <p> means paragraph, <p> will create some space before/after it automatically.
   
-lesson 3
+## lesson 3
   Different types of elements
   
-  Metadata elements
+  ### Metadata elements
     Information about page (e.g. <html>, <head>, <title>)
-  Sectioning elements
+  ### Sectioning elements
     Define regions (e.g. <body>, <h1>, <div>)
   
-  Metadata elements
+  ### Metadata elements
     <html>
       Contains all other elements
       Specifies using HTML standard
@@ -40,7 +40,7 @@ lesson 3
       Specifies page title
       Nested inside <head> </head> tags
 
-  Sectioning elements
+  ### Sectioning elements
     <body> 
       Contains all items seen on page
     <h1>
