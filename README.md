@@ -70,8 +70,8 @@
     <em> emphasize </em>
     <b>this</b> <em>is an <b>example of nested</b> tags</em>
     
- <b> bold </b> /
- <em> emphasize </em> /
+ <b> bold </b>  
+ <em> emphasize </em>  
  <b>this</b> <em>is an <b>example of nested</b> tags</em>
 
 
