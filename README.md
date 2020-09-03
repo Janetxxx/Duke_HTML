@@ -16,7 +16,7 @@
   1993 create
   2014 current standard
 
-  end with /
+  end with "/"
   <html>
   </html>
   
@@ -64,8 +64,14 @@
   <h3>Places I've Visited</h3>
 </div>
       
- 
-
-
+ ## lesson 4
+ ### Tags surround text or page elements
+    <b> bold </b>
+    <em> emphasize </em>
+    <b>this</b> <em>is an <b>example of nested</b> tags</em>
+    
+ <b> bold </b>
+ <em> emphasize </em>
+ <b>this</b> <em>is an <b>example of nested</b> tags</em>
 
 
