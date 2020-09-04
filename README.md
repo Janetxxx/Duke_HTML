@@ -96,22 +96,24 @@
     * clickable text : a resource for learning
     
 ## lesson 6
-Some images are copyrighted
-  laws
-  ok for non-commercial use, like personal use
-  usage rights with copyright holder
-Some images in public domain
-  wikimedia commons
-  creative commons
-Inline or Hot linking
-  for personal pages, copyrights usually ok
-  websites with lots of traffic? maybe a concern
-Finding Links to Online Photos
-  create links to photos found online
-    right-click and copy URL, then paste
-Some sites don't allow hot-linking
-  e.g. pixabay
-  need to test your webpage
-    use incognito or private browsing
 
+    Some images are copyrighted
+      laws
+      ok for non-commercial use, like personal use
+      usage rights with copyright holder
+    Some images in public domain
+      wikimedia commons
+      creative commons
+    Inline or Hot linking
+      for personal pages, copyrights usually ok
+      websites with lots of traffic? maybe a concern
+    Finding Links to Online Photos
+      create links to photos found online
+        right-click and copy URL, then paste
+    Some sites don't allow hot-linking
+      e.g. pixabay
+      need to test your webpage
+        use incognito or private browsing
+
+quiz:
 You are creating a website that has multiple images. Instead of saving the images and installing them on their own server you choose to create a link within your page with the URL of the original sever. This process is known as: inline linking.
