@@ -74,4 +74,23 @@
  <em> emphasize </em>  
  <b>this</b> <em>is an <b>example of nested</b> tags</em>
 
-
+## lesson 5
+### Adding Images and Links
+    Image tag: e.g.
+      <img src="http://xyzw--png" width="75%"/>
+      <img src="http://bit.ly/firstimage" />
+    Options: extra information
+      Some required
+    No end tag, src required, width optional
+      height=
+      CSS later
+### Linking Pages Together
+    <a href = "https://onesource.com">
+    a resource for learning
+    </a> HTML.
+    
+    * anchor tag : <a></a>
+    * herf attribute : http ... website address
+    * clickable text : a resource for learning
+    
+    
