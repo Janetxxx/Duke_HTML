@@ -117,3 +117,56 @@
 
 quiz:
 You are creating a website that has multiple images. Instead of saving the images and installing them on their own server you choose to create a link within your page with the URL of the original sever. This process is known as: inline linking.
+
+### resources websites
+    https://commons.wikimedia.org/wiki/Main_Page
+    https://pixabay.com
+
+
+## lesson 7
+  ### Unordered List 
+  
+      *
+      *
+      *
+      
+      Some lists use circles or bullets
+        These are unordered lists, tag: <ul></ul>
+        Contents viewed in order, list labels are dufault
+        
+      <li></li> list item
+      
+      Inside <ul></ul> must have sequence of <li></li> elements.
+      There can be <img>, <a href>, <ul>... between <li></li> elements.
+      
+ ### Ordered List  
+ 
+     1.
+     2.
+     3.
+     
+     These are ordered lists, tag: <ol></ol>
+     <li></li> required between <ol> and </ol>
+        automatic numebring items
+     
+     numbers are important,
+     also possible: letters
+     
+### List Elements of
+    lists of images
+    list of lists (nested), like a loop in a loop
+
+### HTML Tables
+    also can add image into table
+    
+    HTML table elements
+      <table></table>
+      contains rows <tr></tr>, means table row
+      
+    Rows contain  
+      <th></th> header elements, means table header
+      <td></td> table cells, means table data
+      
+      
+      
+       
