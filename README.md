@@ -168,5 +168,53 @@ You are creating a website that has multiple images. Instead of saving the image
       <td></td> table cells, means table data
       
       
+## lesson 8
+  ### How CSS is used to design web pages
+    Cascading Style Sheets
+      Specifies look and formatting
+      Seperates content from presentation
+    Design that Scales
+      1000 pages on website
+  
+  ### Why CSS?
+    Reusability
+    Maintainability
+    CSS resource check website: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+  
+  ### CSS Classes
+    if we dont want to set all the website into one style, name them into classes
+    Classes: named styles
+      HTML
+        <li class="foodLi"> Chocolate </li>
+        <li class="foodLi"> Cherries </li>
+        <li class="foodLi"> Ice Cream </li>
+      CSS
+        .foodLi {
+          color : green;
+        }
+        
+        . Dot: Making a class, naming a class
+        foofLI: class name, anything you want
+    
+  ### CSS IDs
+    IDs: Name one element
+      HTML
+        <img src="cake.jpg" id="cakeImg" />
+      CSS
+        #cakeImg {
+          float:right;
+        }
+  ### CSS Combinators
+    Combinators: select by relationship
+      Style <li> inside of <ul>:
+        ul li { ... }
+      More advanced relationships exist 
       
-       
+  ### Classes and IDs: Name and Reuse
+    Class and ID: name style
+      Re-use as needed, can use in every page of your website
+      Mant elements in one page
+      Across pages
+      Name + use: recurring concept in CS
+      
+      
