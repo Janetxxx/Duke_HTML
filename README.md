@@ -69,7 +69,7 @@
  ## lesson 4
  ### Tags surround text or page elements
     <b> bold </b>
-    <em> emphasize </em>
+    <em> emphasize </em>, means italics
     <b>this</b> <em>is an <b>example of nested</b> tags</em>
     
  <b> bold </b>  
