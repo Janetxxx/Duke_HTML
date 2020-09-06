@@ -221,3 +221,19 @@ You are creating a website that has multiple images. Instead of saving the image
     CSS home: https://www.w3schools.com/css/default.asp
     CSS more colors: https://www.w3schools.com/cssref/css_colors.asp
   
+## lesson 8
+  ### colors and names in CSS
+    140 standard color names
+    find here: https://www.w3.org/TR/css-color-3/
+    
+  ### color numbers
+    can specify with rgb(red, green, blue)
+      e.g. rgb(138, 43, 226)
+    
+    or entire number: # + 6 hex digits
+      hexadecimal: base 16
+      digits: 0-9, A(10)-F(15)
+        e.g. Glod: #FFD700, FF sepecify red, D7 sepecify green, 00 sepecify blue
+        
+    find here to pick color:
+      https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
